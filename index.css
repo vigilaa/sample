@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+#main-heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    
+   
+}h1{
+text-align: center;
+}
+div{
+    border: solid;
+    text-align: center;
+    border-radius: 25px;
+    margin-bottom: 25px;
+    
+}
+
+
+button{
+    margin-bottom: 25px;
+}

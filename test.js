@@ -12,3 +12,15 @@ button.addEventListener("click",()=>{
     button.innerHTML="Show Less";
 }
 })
+button.addEventListener("click",()=>{
+
+
+    if(content.className=="open"){
+        content.className="";
+        button.innerHTML="Show More";
+    }else
+    {
+    content.className="open";
+    button.innerHTML="Show Less";
+}
+})
